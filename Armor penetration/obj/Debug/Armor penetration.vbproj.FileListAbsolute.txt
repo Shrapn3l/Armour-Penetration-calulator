@@ -1,0 +1,11 @@
+C:\Users\Root\source\repos\Armor penetration\Armor penetration\bin\Debug\Armor penetration.exe.config
+C:\Users\Root\source\repos\Armor penetration\Armor penetration\bin\Debug\Armor penetration.exe
+C:\Users\Root\source\repos\Armor penetration\Armor penetration\bin\Debug\Armor penetration.pdb
+C:\Users\Root\source\repos\Armor penetration\Armor penetration\bin\Debug\Armor penetration.xml
+C:\Users\Root\source\repos\Armor penetration\Armor penetration\obj\Debug\Armor penetration.vbprojAssemblyReference.cache
+C:\Users\Root\source\repos\Armor penetration\Armor penetration\obj\Debug\Armor_penetration.Form1.resources
+C:\Users\Root\source\repos\Armor penetration\Armor penetration\obj\Debug\Armor_penetration.Resources.resources
+C:\Users\Root\source\repos\Armor penetration\Armor penetration\obj\Debug\Armor penetration.vbproj.GenerateResource.cache
+C:\Users\Root\source\repos\Armor penetration\Armor penetration\obj\Debug\Armor penetration.exe
+C:\Users\Root\source\repos\Armor penetration\Armor penetration\obj\Debug\Armor penetration.xml
+C:\Users\Root\source\repos\Armor penetration\Armor penetration\obj\Debug\Armor penetration.pdb
